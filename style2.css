@@ -1,0 +1,155 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background: rgba(109, 2, 147, 0.57);
+}
+
+header {
+  position: absolute;
+width: 10000px;
+height: 126px;
+left: 0px;
+top: 0px;
+
+background: #C126F8;
+}
+
+p {
+  position: absolute;
+  width: 1225px;
+  height: 43px;
+  left: 350px;
+  top: 42px;
+
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 55px;
+  line-height: 54px;
+  text-align: center;
+
+
+  color: #FFFFFF;
+}
+
+.colegio {
+  position: absolute;
+  width: 500px;
+  height: 500px;
+  left: -127px;
+  top: -187px;
+
+  background: url(colegio2.png);
+}
+
+.fotopatio {
+  position: absolute;
+width: 1200px;
+height: 659px;
+left: 335px;
+top: 200px;
+
+background: url(costa.jpg);
+}
+
+footer {
+  position: absolute;
+width: 10000px;
+height: 80px;
+left: 0px;
+top: 1880px;
+}
+
+.aluna {
+  position: absolute;
+width: 500px;
+height: 100px;
+left: 750px;
+top: 980px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 45px;
+line-height: 44px;
+
+color: #000000;
+
+}
+
+.cria {
+  position: absolute;
+width: 400px;
+height: 370px;
+left: 99px;
+top: 1083.08px;
+
+background: url(mariacria.jpg);
+}
+
+.maria {
+  position: absolute;
+  width: 500px;
+  height: 500px;
+  left: 650px;
+  top: 1125px;
+
+  font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 36px;
+line-height: 44px;
+
+color: #000000;
+}
+
+.estudante {
+  position: absolute;
+  width: 500px;
+  height: 500px;
+  left: 650px;
+  top: 1190px;
+
+  font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 36px;
+line-height: 44px;
+
+color: #000000;
+}
+
+.anos {
+  position: absolute;
+  width: 500px;
+  height: 500px;
+  left: 650px;
+  top: 1300px;
+
+  font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 36px;
+line-height: 44px;
+
+color: #000000;
+}
+
+.costa {
+  position: absolute;
+  width: 500px;
+  height: 500px;
+  left: 650px;
+  top: 1370px;
+
+  font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 36px;
+line-height: 44px;
+
+color: #000000;
+}
