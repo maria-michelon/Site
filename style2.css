@@ -1,155 +1,274 @@
 * {
-  margin: 0;
-  padding: 0;
-}
+    margin: 0;
+    padding: 0;
+  }
 
-body {
-  background: rgba(109, 2, 147, 0.57);
-}
+  body {
+    background: rgba(109, 2, 147, 0.57);
+  }
 
-header {
-  position: absolute;
-width: 10000px;
-height: 126px;
-left: 0px;
-top: 0px;
+  header {
+    position: absolute;
+  width: 10000px;
+  height: 126px;
+  left: 0px;
+  top: 0px;
 
-background: #C126F8;
-}
+  background: #C126F8;
+  }
 
-p {
-  position: absolute;
-  width: 1225px;
-  height: 43px;
-  left: 350px;
-  top: 42px;
+  p {
+    position: absolute;
+    width: 1225px;
+    height: 43px;
+    left: 350px;
+    top: 42px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 55px;
+    line-height: 54px;
+    text-align: center;
+
+
+    color: #FFFFFF;
+  }
+
+  .colegio {
+    position: absolute;
+    width: 500px;
+    height: 500px;
+    left: -127px;
+    top: -187px;
+
+    background: url(colegio2.png);
+  }
+
+  .fotopatio {
+    position: absolute;
+  width: 1200px;
+  height: 659px;
+  left: 335px;
+  top: 200px;
+
+  background: url(costa.jpg);
+  }
+
+  footer {
+    position: absolute;
+  width: 10000px;
+  height: 80px;
+  left: 0px;
+  top: 1880px;
+  }
+
+  .aluna {
+    position: absolute;
+  width: 500px;
+  height: 100px;
+  left: 750px;
+  top: 980px;
 
   font-family: 'Inter';
   font-style: normal;
   font-weight: 700;
-  font-size: 55px;
-  line-height: 54px;
-  text-align: center;
+  font-size: 45px;
+  line-height: 44px;
+
+  color: #000000;
+
+  }
+
+  .cria {
+    position: absolute;
+  width: 400px;
+  height: 370px;
+  left: 99px;
+  top: 1083.08px;
+
+  background: url(mariacria.jpg);
+  }
+
+  .maria {
+    position: absolute;
+    width: 500px;
+    height: 500px;
+    left: 650px;
+    top: 1125px;
+
+    font-family: 'Inter';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 36px;
+  line-height: 44px;
+
+  color: #000000;
+  }
+
+  .estudante {
+    position: absolute;
+    width: 500px;
+    height: 500px;
+    left: 650px;
+    top: 1190px;
+
+    font-family: 'Inter';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 36px;
+  line-height: 44px;
+
+  color: #000000;
+  }
+
+  .anos {
+    position: absolute;
+    width: 500px;
+    height: 500px;
+    left: 650px;
+    top: 1300px;
+
+    font-family: 'Inter';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 36px;
+  line-height: 44px;
+
+  color: #000000;
+  }
+
+  .costa {
+    position: absolute;
+    width: 500px;
+    height: 500px;
+    left: 650px;
+    top: 1370px;
+
+    font-family: 'Inter';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 36px;
+  line-height: 44px;
+
+  color: #000000;
+  }
 
 
-  color: #FFFFFF;
-}
-
-.colegio {
-  position: absolute;
-  width: 500px;
-  height: 500px;
-  left: -127px;
-  top: -187px;
-
-  background: url(colegio2.png);
-}
-
-.fotopatio {
-  position: absolute;
-width: 1200px;
-height: 659px;
-left: 335px;
-top: 200px;
-
-background: url(costa.jpg);
-}
 
 footer {
-  position: absolute;
-width: 10000px;
-height: 80px;
-left: 0px;
-top: 1880px;
+    position: absolute;
+    width: 10000px;
+    height: 124px;
+    left: 0px;
+    top: 1836px;
+
+    background: #C126F8;
 }
 
-.aluna {
+.conosco {* {
+2
+  margin: 0;
+3
+  padding: 0;
+4
+}
+5
+​
+6
+body {
+7
+  background: rgba(109, 2, 147, 0.57);
+8
+}
+9
+​
+10
+header {
+11
   position: absolute;
-width: 500px;
-height: 100px;
-left: 750px;
-top: 980px;
+12
+width: 10000px;
+13
+height: 126px;
+14
+left: 0px;
+15
+top: 0px;
+16
+​
+17
+background: #C126F8;
+18
+}
+19
+​
+20
+p {
+21
+  position: absolute;
+22
+  width: 1225px;
+23
+  height: 43px;
+24
+  left: 350px;
+25
+  top: 42px;
+26
+​
+27
+  font-family: 'Inter';
+28
+  font-style: normal;
+29
+  font-weight: 700;
+30
+  font-size: 55px;
+31
+  line-height: 54px;
+32
+  text-align: center;
+33
+​
+34
+​
+35
+  color: #FFFFFF;
+36
+}
+37
+​
+38
+.colegio {
+39
+  position: absolute;
+40
+  width: 500px;
+41
+  height: 500px;
+42
+  left: -127px;
+43
+  top: -187px;
+44
+​
+45
+  background: url(colegio2.png);
+  position: absolute;
+width: 1000px;
+height: 90px;
+left: 410px;
+top: 35px;
 
 font-family: 'Inter';
 font-style: normal;
-font-weight: 700;
-font-size: 45px;
-line-height: 44px;
+font-weight: 0;
+font-size: 48px;
+line-height: 58px;
+/* identical to box height */
 
-color: #000000;
 
-}
+color: #FFFFFF;
 
-.cria {
-  position: absolute;
-width: 400px;
-height: 370px;
-left: 99px;
-top: 1083.08px;
-
-background: url(mariacria.jpg);
-}
-
-.maria {
-  position: absolute;
-  width: 500px;
-  height: 500px;
-  left: 650px;
-  top: 1125px;
-
-  font-family: 'Inter';
-font-style: normal;
-font-weight: 500;
-font-size: 36px;
-line-height: 44px;
-
-color: #000000;
-}
-
-.estudante {
-  position: absolute;
-  width: 500px;
-  height: 500px;
-  left: 650px;
-  top: 1190px;
-
-  font-family: 'Inter';
-font-style: normal;
-font-weight: 500;
-font-size: 36px;
-line-height: 44px;
-
-color: #000000;
-}
-
-.anos {
-  position: absolute;
-  width: 500px;
-  height: 500px;
-  left: 650px;
-  top: 1300px;
-
-  font-family: 'Inter';
-font-style: normal;
-font-weight: 500;
-font-size: 36px;
-line-height: 44px;
-
-color: #000000;
-}
-
-.costa {
-  position: absolute;
-  width: 500px;
-  height: 500px;
-  left: 650px;
-  top: 1370px;
-
-  font-family: 'Inter';
-font-style: normal;
-font-weight: 500;
-font-size: 36px;
-line-height: 44px;
-
-color: #000000;
 }
